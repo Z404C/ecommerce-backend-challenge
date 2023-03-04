@@ -1,11 +1,11 @@
 # ecommerce-backend-challenge
 
-## Description
-# This is a project to create the backend of a ecommerce site.
+# Description
+## This is a project to create the backend of a ecommerce site.
 
 
-## Usage
-# To get this to work, execute npm run seed. Then, npm run start
+# Usage
+## To get this to work, execute npm run seed. Then, npm run start
 
 
 
